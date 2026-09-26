@@ -2,7 +2,7 @@
 
 Spring Boot backend for a Twitch discovery application. It uses the Twitch Helix API to search Twitch content, stores users and favorites in MySQL, and provides cached recommendations.
 
-- [Frontend repository](https://github.com/Oliver-JL/twitch-frontend)
+- [Twitch_Frontend](https://github.com/oliver3629/Twitch_Frontend)
 - [AWS deployment guide](AWS_DEPLOYMENT.md)
 
 ## Requirements

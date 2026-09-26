@@ -28,7 +28,7 @@ Do not add passwords or API credentials to Git.
 
 ## 2. Build and integrate the frontend
 
-The frontend source code is available in the [twitch-frontend repository](https://github.com/Oliver-JL/twitch-frontend). Build the frontend first, then copy its production files into the backend so both applications can be deployed in one container.
+The frontend source code is available in the [Twitch_Frontend](https://github.com/oliver3629/Twitch_Frontend). Build the frontend first, then copy its production files into the backend so both applications can be deployed in one container.
 
 Open the frontend folder and create a production build:
 
